@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-mascot component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-mascot"
+name = "sigmaos_archlinux_mascot"
 path = "src/lib.rs"
