@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-mascot"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-mascot component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
